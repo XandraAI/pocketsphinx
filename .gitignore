@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs/pocketsphinx/v16
+/bin/Debug/Win32
+/win32/pocketsphinx/Debug/Win32
+/win32/pocketsphinx_batch/Debug/Win32
+/win32/pocketsphinx_continuous/Debug/Win32
+/win32/pocketsphinx_mdef_convert/Debug/Win32
+/UpgradeLog.htm
+/.vs/pocketsphinx/config/applicationhost.config
